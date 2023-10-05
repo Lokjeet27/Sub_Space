@@ -4,13 +4,15 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project have two pages.
+1st page:
+  contains: -The ListView shows the card with their respective title.
+            -A Like button is provided.
+  function: -Double click to like or click the icon to like the blog
+            -Bottom Navigation to move to the other sections that might be built later.
+2nd page:
+  contains: -The view of selected Blog with title and id as well.
+  function: - Can like the blog by clicking the icon.
+  
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
